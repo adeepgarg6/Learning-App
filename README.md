@@ -1,6 +1,8 @@
 To Start
  run node api/server.js
  run npm start in another
+ Backend will run at port 5000
+ Frontend will run at port 3000
 
  deployed at https://awesome-mcclintock-b51659.netlify.app/
 
